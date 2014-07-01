@@ -36,8 +36,8 @@ If you find the code helpful for your research, please cite our paper:
 
 If you have questions or comments, please contact
 
--- Xi Li (e-mail: lixichinanlpr@gmail.com)
--- Chunhua Shen (e-mail: chhshen@gmail.com)
+* Xi Li (e-mail: lixichinanlpr@gmail.com)
+* Chunhua Shen (e-mail: chhshen@gmail.com)
 
 (c) authors, 2013.
 
